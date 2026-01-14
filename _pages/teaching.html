@@ -7,6 +7,49 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign instructor = site.teaching | where: "type", "Instructor of Record" | sort: "year" | reverse %}
+{% assign ta = site.teaching | where: "type", "Teaching Assistant" | sort: "year" | reverse %}
+
+<h2>Instructor of Record</h2>
+<hr />
+
+{% for post in instructor %}
+  <div class="list__item">
+    <article class="archive__item">
+      <h2 class="archive__item-title">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h2>
+
+      <p>
+        {% if post.term %}{{ post.term }}, {% endif %}
+        <i>{{ post.venue }}</i>
+      </p>
+
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
+    </article>
+  </div>
+{% endfor %}
+
+<h2>Teaching Assistant</h2>
+<hr />
+
+{% for post in ta %}
+  <div class="list__item">
+    <article class="archive__item">
+      <h2 class="archive__item-title">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h2>
+
+      <p>
+        {% if post.term %}{{ post.term }}, {% endif %}
+        <i>{{ post.venue }}</i>
+      </p>
+
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
+    </article>
+  </div>
 {% endfor %}

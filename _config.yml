@@ -23,10 +23,10 @@ repository               : "wesscivetti/wesscivetti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "wes_ponto.jpg"
   name             : "Wesley Scivetti"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student | Computational Linguistics | AI"
+  bio              : "PhD Student | Computational Linguistics"
   location         : "Washington D.C."
   employer         : "Georgetown University"
   uri              : # URL
