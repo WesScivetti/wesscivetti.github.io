@@ -16,6 +16,8 @@ Previously, I received my Bachelor's and Master's degrees from the University of
 
 My research interests include:
 
-- Interpretability Methodologies, particularly Filtered Corpus Training
-- Statistical Theories of Language Acquisition
 - Construction Grammar
+- Filtered Corpus Training
+- Statistical Theories of Language Acquisition
+- Mechanistic Interpretability
+- Computational Psycholinguistics
