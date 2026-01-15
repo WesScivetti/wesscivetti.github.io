@@ -21,3 +21,6 @@ My research interests include:
 - Statistical Theories of Language Acquisition
 - Mechanistic Interpretability
 - Computational Psycholinguistics
+- Linguistic Dataset Creation and Evaluation
+- Discourse Phenomena
+- Adpositions
