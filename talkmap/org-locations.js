@@ -20,8 +20,18 @@ var addressPoints = [
     -76.610759
   ],
   [
+    "Introduction to Construction Grammar<br />Georgetown University; Washington DC, USA",
+    38.8950368,
+    -77.0365427
+  ],
+  [
     "Constructional Knowledge in LMs: Form and Meaning<br />University of Florida; Gainesville, FL, USA",
     29.6519684,
     -82.3249846
+  ],
+  [
+    "Computational Linguistics and Construction Grammar<br />University of Pittsburgh; Pittsburgh PA, USA",
+    40.4507364,
+    -80.0248219
   ]
 ];
