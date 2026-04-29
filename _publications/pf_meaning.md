@@ -3,7 +3,7 @@ title: "Language Models Learn Constructional Semantics, Not To Mention Syntax: I
 collection: publications
 category: Conference Paper
 authors: "<strong>Wesley Scivetti</strong>, Ethan Wilcox, Nathan Schneider, Kanishka Misra, Leonie Weissweiler"
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/pf_meaning
 date: 2026-07-03
 venue: 'CoNLL'
 
