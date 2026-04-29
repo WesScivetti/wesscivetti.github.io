@@ -2,7 +2,7 @@
 title: "Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions"
 collection: publications
 category: Conference Paper
-authors: "Wesley Scivetti, Melissa Torgbi, Mollie Shichman, Taylor Pellegrin, Austin Blodgett, Claire Bonial, Harish Tayyar Madabushi"
+authors: "<strong>Wesley Scivetti*</strong>, Melissa Torgbi*, Mollie Shichman, Taylor Pellegrin, Austin Blodgett, Claire Bonial, Harish Tayyar Madabushi (*equal contribution)"
 permalink: /publication/beyond_mem
 date: 2025-12-20
 venue: 'AACL'

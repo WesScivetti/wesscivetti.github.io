@@ -2,7 +2,7 @@
 title: "Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions"
 collection: publications
 category: Conference Paper
-authors: "Wesley Scivetti, Ethan Wilcox, Nathan Schneider, Kanishka Misra, Leonie Weissweiler"
+authors: "<strong>Wesley Scivetti</strong>, Ethan Wilcox, Nathan Schneider, Kanishka Misra, Leonie Weissweiler"
 permalink: /publication/pf_meaning
 date: 2026-07-03
 venue: 'CoNLL'

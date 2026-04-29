@@ -2,7 +2,7 @@
 title: "Multilingual Supervision Improves Semantic Disambiguation of Adpositions"
 collection: publications
 category: Conference Paper
-authors: "<strong>Wes Scivetti</strong>, Lauren Levine, Nathan Schneider"
+authors: "<strong>Wesley Scivetti</strong>, Lauren Levine, Nathan Schneider"
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-01-19
 venue: 'COLING'

@@ -2,7 +2,7 @@
 title: "Construction Identification and Disambiguation Using BERT: A Case Study of NPN"
 collection: publications
 category: Conference Paper
-authors: "<strong>Wes Scivetti</strong>, Nathan Schneider"
+authors: "<strong>Wesley Scivetti</strong>, Nathan Schneider"
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-07-31
 venue: 'CoNLL'

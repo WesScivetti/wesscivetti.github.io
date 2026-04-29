@@ -2,7 +2,7 @@
 title: "Meaning Representation of English Prepositional Phrase Roles: SNACS Supersenses vs. Tectogrammatical Functors"
 collection: publications
 category: Conference Paper
-authors: "<strong>Wes Scivetti</strong>, Nathan Schneider"
+authors: "<strong>Wesley Scivetti</strong>, Nathan Schneider"
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-06-20
 venue: 'DMR'

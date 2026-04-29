@@ -3,7 +3,7 @@ title: "Unpacking Let Alone: Human-Scale Models Generalize to a Rare Constructio
 collection: publications
 category: Conference Paper
 permalink: /publication/2009-10-01-paper-title-number-1
-authors: "<strong>Wes Scivetti</strong>, Tatsuya Aoyama, Ethan Wilcox, Nathan Schneider"
+authors: "<strong>Wesley Scivetti</strong>, Tatsuya Aoyama, Ethan Wilcox, Nathan Schneider"
 date: 2025-11-04
 venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2025.emnlp-main.1399.pdf'
